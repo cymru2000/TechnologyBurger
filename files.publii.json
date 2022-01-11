@@ -202,12 +202,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "19016ee6afef2340b1d643551ecd0fcc"
+        "md5": "65aaf4e8159056092a4e64e741b4ac70"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "6cb094089f8fa788ebf70287bfbbe138"
+        "md5": "4c8722e4e0d68a0b3212d7e0129eb157"
     },
     {
         "path": "index.html",
@@ -227,7 +227,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "ea0a8493d440594b71cc1fe0f1ba1bed"
+        "md5": "0e9bc1eb18dda8a50e87e76702adcbfd"
     },
     {
         "path": "sitemap.xsl",
@@ -247,6 +247,6 @@
     {
         "path": "tesla-adds-chill-and-assertive-self-driving-modes.html",
         "type": "file",
-        "md5": "dea6360435332a8e46d6b4143b24246c"
+        "md5": "9f7ba244129a8e3a1d74da60a5df840f"
     }
 ]
