@@ -202,17 +202,72 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "65aaf4e8159056092a4e64e741b4ac70"
+        "md5": "c618b3607871fbfb24a41e70c84e2c42"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "4c8722e4e0d68a0b3212d7e0129eb157"
+        "md5": "79a4129876e5358cd975b61b541df1aa"
     },
     {
         "path": "index.html",
         "type": "file",
         "md5": "ab98fccc6bbcf8485cb24282f6a2dde8"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/_122642990_gettyimages-956049418-lg.jpg",
+        "type": "file",
+        "md5": "870c9d7b54228e8f47bb4ad3db272f3d"
+    },
+    {
+        "path": "/media/posts/1/responsive/_122642990_gettyimages-956049418-md.jpg",
+        "type": "file",
+        "md5": "a91e72c43b167104e4f4b39e9cb19a40"
+    },
+    {
+        "path": "/media/posts/1/responsive/_122642990_gettyimages-956049418-sm.jpg",
+        "type": "file",
+        "md5": "f200c356ce5d518a9167fae04220423a"
+    },
+    {
+        "path": "/media/posts/1/responsive/_122642990_gettyimages-956049418-xl.jpg",
+        "type": "file",
+        "md5": "870c9d7b54228e8f47bb4ad3db272f3d"
+    },
+    {
+        "path": "/media/posts/1/responsive/_122642990_gettyimages-956049418-xs.jpg",
+        "type": "file",
+        "md5": "112ed2bc412f803b0aa17c22e8a8a843"
+    },
+    {
+        "path": "/media/posts/1/responsive/_122642990_gettyimages-956049418-xxl.jpg",
+        "type": "file",
+        "md5": "870c9d7b54228e8f47bb4ad3db272f3d"
+    },
+    {
+        "path": "/media/posts/1/_122642990_gettyimages-956049418.jpg",
+        "type": "file",
+        "md5": "08480441aee0db97ef1d057ed82678ab"
     },
     {
         "path": "robots.txt",
@@ -227,7 +282,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0e9bc1eb18dda8a50e87e76702adcbfd"
+        "md5": "eb2d6408639b9cfdcdc6498c8921c6a6"
     },
     {
         "path": "sitemap.xsl",
@@ -247,6 +302,6 @@
     {
         "path": "tesla-adds-chill-and-assertive-self-driving-modes.html",
         "type": "file",
-        "md5": "9f7ba244129a8e3a1d74da60a5df840f"
+        "md5": "ff9c8e9565446460c17bc5ea067e1387"
     }
 ]
