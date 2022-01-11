@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "0dae92f83a2205213ffae540b5fdab7c"
+        "md5": "e11a96ffd14ddcb0eafd4da28f56744a"
     },
     {
         "path": "assets",
@@ -197,22 +197,22 @@
     {
         "path": "/authors/wayne/index.html",
         "type": "file",
-        "md5": "14c5a8fb579f727a7aea0810c6cd59df"
+        "md5": "4e6e46526f5d9c6a6ca0d34ed1f30281"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "3d6d5d0fb93dd9a91a2a983bd41a6b38"
+        "md5": "19016ee6afef2340b1d643551ecd0fcc"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "755edcd527be9879f39bda2ef6f15a84"
+        "md5": "6cb094089f8fa788ebf70287bfbbe138"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "e6efc04bc86c93ac507db5037412031b"
+        "md5": "ab98fccc6bbcf8485cb24282f6a2dde8"
     },
     {
         "path": "robots.txt",
@@ -222,12 +222,12 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "fe56ed184b96eeee7bb466fb5d80a5c9"
+        "md5": "8ecdb13e6c6f92e437e42fe661ae5fb3"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "ac893eba3d9c5d4caca5a2c01e2f1e98"
+        "md5": "ea0a8493d440594b71cc1fe0f1ba1bed"
     },
     {
         "path": "sitemap.xsl",
@@ -242,11 +242,11 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "1d17281b457a41ac033c568fad5015ba"
+        "md5": "6b68e22713356a1ac898a454498561a2"
     },
     {
-        "path": "test.html",
+        "path": "tesla-adds-chill-and-assertive-self-driving-modes.html",
         "type": "file",
-        "md5": "754a0262f2118e8134ab93400284e497"
+        "md5": "dea6360435332a8e46d6b4143b24246c"
     }
 ]
