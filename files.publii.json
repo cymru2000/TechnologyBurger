@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "54915267aad393c38ff46c0617b2879a"
+        "md5": "0dae92f83a2205213ffae540b5fdab7c"
     },
     {
         "path": "assets",
@@ -17,22 +17,27 @@
     {
         "path": "/assets/css/editor.css",
         "type": "file",
-        "md5": "4202808df745f2ac7ab250606fa0d272"
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/fontawesome-all.min.css",
+        "type": "file",
+        "md5": "bbcde81f26378440dac4c3d195714389"
     },
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "08f354ab8cda9c1c7a255e2a120e1e7a"
+        "md5": "95edbb8555485567d747110011892f70"
     },
     {
         "path": "/assets/css/photoswipe.css",
         "type": "file",
-        "md5": "7331f6eb15671b2fc8e3ffd46e849f7b"
+        "md5": "357f87f4e9502a5318d89e8e76e0a344"
     },
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "c67e26389eb6b774845b5f0611dabaee"
+        "md5": "dd2f5302461b6031e60971f8134aab44"
     },
     {
         "path": "assets/js",
@@ -40,34 +45,49 @@
         "md5": false
     },
     {
+        "path": "/assets/js/breakpoints.min.js",
+        "type": "file",
+        "md5": "81a479eb099e3b187613943b085923b8"
+    },
+    {
+        "path": "/assets/js/browser.min.js",
+        "type": "file",
+        "md5": "c07298dd19048a8a69ad97e754dfe8d0"
+    },
+    {
+        "path": "/assets/js/jquery.min.js",
+        "type": "file",
+        "md5": "7c14a783dfeb3d238ccd3edd840d82ee"
+    },
+    {
+        "path": "/assets/js/main.js",
+        "type": "file",
+        "md5": "1d9456346989b8576d1fd0c419bea95d"
+    },
+    {
+        "path": "/assets/js/main.min.js",
+        "type": "file",
+        "md5": "448f4c9d4b4c374766a1cb76c3d88048"
+    },
+    {
         "path": "/assets/js/photoswipe-ui-default.min.js",
         "type": "file",
-        "md5": "9952f77ca2b8fbc9449a268008ea8dee"
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
     },
     {
         "path": "/assets/js/photoswipe.min.js",
         "type": "file",
-        "md5": "b586a3bc288c989ecce7b81b48e35855"
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
     },
     {
-        "path": "/assets/js/scripts.js",
+        "path": "/assets/js/util.js",
         "type": "file",
-        "md5": "29e3af53b87c8ff12466ebd1c0ba8e6d"
+        "md5": "fd2716a7b68ce7748c9676787b61db43"
     },
     {
-        "path": "/assets/js/scripts.min.js",
+        "path": "/assets/js/util.min.js",
         "type": "file",
-        "md5": "48e9576b9741cf2a93ab25c5689c9f5d"
-    },
-    {
-        "path": "/assets/js/svg-fix.js",
-        "type": "file",
-        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
-    },
-    {
-        "path": "/assets/js/svg-map.js",
-        "type": "file",
-        "md5": "3fc55b509d613f5e49db25528dfafee1"
+        "md5": "cbdaf7c20ac2883c77ae23acfbabd47e"
     },
     {
         "path": "assets/svg",
@@ -77,22 +97,92 @@
     {
         "path": "/assets/svg/gallery-icons-dark.svg",
         "type": "file",
-        "md5": "b40f17fabcda1519011795fa715c5751"
+        "md5": "452594838e74a3df91ad4a20cf53c831"
     },
     {
         "path": "/assets/svg/gallery-icons-light.svg",
         "type": "file",
-        "md5": "ae5b8ffffb37a64a9be016441a42d939"
+        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
     },
     {
-        "path": "/assets/svg/search.svg",
-        "type": "file",
-        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
+        "path": "assets/webfonts",
+        "type": "directory",
+        "md5": false
     },
     {
-        "path": "/assets/svg/svg-map.svg",
+        "path": "/assets/webfonts/fa-brands-400.eot",
         "type": "file",
-        "md5": "3c5bef20cd9e16841afe49cf089a6c20"
+        "md5": "03783c5172ee1ad128c576bf88fac168"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.svg",
+        "type": "file",
+        "md5": "1e146a9d2141d39e412259812a6bdb94"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.ttf",
+        "type": "file",
+        "md5": "ed2b8bf117160466ba6220a8f1da54a4"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.woff",
+        "type": "file",
+        "md5": "fe9d62e0d16a333a20e63c3e7595f82e"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.woff2",
+        "type": "file",
+        "md5": "7559b3774a0625e8ca6c0160f8f6cfd8"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.eot",
+        "type": "file",
+        "md5": "fc9c63c8224fb341fc933641cbdd12ef"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.svg",
+        "type": "file",
+        "md5": "0f9cc91caae1d6270ca9565e02bcd5e1"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.ttf",
+        "type": "file",
+        "md5": "59215032a4397507b80e5625dc323de3"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.woff",
+        "type": "file",
+        "md5": "e5770f9863963fb576942e25214a226d"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.woff2",
+        "type": "file",
+        "md5": "e07d9e40b26048d9abe2ef966cd6e263"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.eot",
+        "type": "file",
+        "md5": "ef3df98419d143d9617fe163bf4edc0b"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.svg",
+        "type": "file",
+        "md5": "6c284a6deef590e5494e13c1b7aa387c"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.ttf",
+        "type": "file",
+        "md5": "acf50f59802f20d8b45220eaae532a1c"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.woff",
+        "type": "file",
+        "md5": "4bced7c4c0d61d4f988629bb8ae80b8b"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.woff2",
+        "type": "file",
+        "md5": "b5cf8ae26748570d8fb95a47f46b69e1"
     },
     {
         "path": "authors",
@@ -107,7 +197,7 @@
     {
         "path": "/authors/wayne/index.html",
         "type": "file",
-        "md5": "6b86e2eaafa4135f706c617137ae6e04"
+        "md5": "14c5a8fb579f727a7aea0810c6cd59df"
     },
     {
         "path": "feed.json",
@@ -122,7 +212,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "9566d5f7706d72c367cd2cff2fcb88b5"
+        "md5": "e6efc04bc86c93ac507db5037412031b"
     },
     {
         "path": "robots.txt",
@@ -132,7 +222,7 @@
     {
         "path": "search.html",
         "type": "file",
-        "md5": "4439f780965de1271a5d0f0929cf602c"
+        "md5": "fe56ed184b96eeee7bb466fb5d80a5c9"
     },
     {
         "path": "sitemap.xml",
@@ -152,11 +242,11 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "1dd9d27af6bc4e0107b9046102e61f55"
+        "md5": "1d17281b457a41ac033c568fad5015ba"
     },
     {
         "path": "test.html",
         "type": "file",
-        "md5": "15df3b7419cd901674f5982413113360"
+        "md5": "754a0262f2118e8134ab93400284e497"
     }
 ]
