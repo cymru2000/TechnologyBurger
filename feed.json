@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TechnologyBurger",
+    "description": "",
+    "home_page_url": "https://technologyburger.com",
+    "feed_url": "https://technologyburger.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Wayne"
+    },
+    "items": [
+        {
+            "id": "https://technologyburger.com/test.html",
+            "url": "https://technologyburger.com/test.html",
+            "title": "Test",
+            "summary": "This is a test post, to see whether things are working.",
+            "content_html": "<p>This is a test post, to see whether things are working.</p>",
+            "author": {
+                "name": "Wayne"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-11T10:11:50+00:00",
+            "date_modified": "2022-01-11T10:11:50+00:00"
+        }
+    ]
+}

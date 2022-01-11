@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>TechnologyBurger</title>
+    <link href="https://technologyburger.com/feed.xml" rel="self" />
+    <link href="https://technologyburger.com" />
+    <updated>2022-01-11T10:11:50+00:00</updated>
+    <author>
+        <name>Wayne</name>
+    </author>
+    <id>https://technologyburger.com</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Wayne</name>
+        </author>
+        <link href="https://technologyburger.com/test.html"/>
+        <id>https://technologyburger.com/test.html</id>
+
+        <updated>2022-01-11T10:11:50+00:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a test post, to see whether things are working.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test post, to see whether things are working.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
